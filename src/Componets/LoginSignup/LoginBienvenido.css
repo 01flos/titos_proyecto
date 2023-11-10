@@ -1,0 +1,22 @@
+.container-bienvenido{
+    width: 600px;
+    display: flex;
+}
+
+.text-bienv{
+    color: #fe5801;
+    font-size: 120px;
+    font-weight: 700;
+    margin-top: 250px;
+}
+
+.logo-img-bienvenido{
+    margin-top: 301px;
+}
+
+.text-nido{
+    color: #fe5801;
+    font-size: 120px;
+    font-weight: 700;
+    margin-top: 250px;
+}
